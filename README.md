@@ -7,13 +7,13 @@
 
 ## Description
 
-_This site takes user input and filters through to find car matches the fit the limitations of price and miles._
+This site takes user input and filters through to find car matches the fit the limitations of price and miles.
 
 ##Setup and Installation
 
-* _Clone from GitHub_
-* _Run 'php -S localhost:8000' in terminal _
-* _Navigate to 'localhost:8000/name-of-file' to view _
+* Clone from GitHub
+* Run 'php -S localhost:8000' in terminal 
+* Navigate to 'localhost:8000/name-of-file' to view 
 
 ## Technologies Used
 
